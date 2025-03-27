@@ -51,7 +51,7 @@ function App() {
     </div>
     <div className="carousel-inner">
       <div className="carousel-item active">
-        <img src={images1} alt="客户至上">
+        <img src={images1} alt="客户至上" />
         <div className="container">
           <div className="carousel-caption text-start">
             <h1>链 接</h1>
@@ -60,7 +60,7 @@ function App() {
         </div>
       </div>
       <div className="carousel-item">
-        <img src={images1} alt="出海迎接未来">
+        <img src={images1} alt="出海迎接未来" />
         <div className="container">
           <div className="carousel-caption">
             <h1>出 海</h1>
@@ -133,7 +133,7 @@ function App() {
         <p>制造出海和品牌出海</p>
       </div>
       <div className="col-md-5">
-         <img src={images1} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto">
+         <img src={images1} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
       </div>
     </div>
 
@@ -145,7 +145,7 @@ function App() {
         <p className="lead">北海将抢抓机遇开放发展，建好中国—东盟产业合作区（北海片区）、中国（广西）自由贸易试验区北海协同发展区、铁山港区国家进口贸易促进创新示范区、中国-柬埔寨产业园等开放平台，打造跨境产业链供应链服务集成创新地和大宗商品跨境贸易合作新平台。”广西壮族自治区人大代表，自治区党委委员、北海市委副书记、市长李莉说。</p>
       </div>
       <div className="col-md-5 order-md-1">
-                <img src={images1} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto">
+                <img src={images1} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
       </div>
     </div>
 
@@ -157,7 +157,7 @@ function App() {
         <p className="lead">北海跨境电商发展前景和待遇怎么样?有前途吗?好找工作吗?工资待遇:2024年较2023年下降了29%。</p>
       </div>
       <div className="col-md-5">
-                <img src={images1} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto">
+                <img src={images1} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
       </div>
     </div>
     <hr className="featurette-divider">
@@ -167,7 +167,7 @@ function App() {
       <div className="col-sm-6 mb-3 mb-sm-3">
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title"> <img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"> <span className="badge text-bg-secondary">4</span></h5>
+            <h5 className="card-title"> <img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /> <span className="badge text-bg-secondary">4</span></h5>
             <p className="card-text">美国最大的一家网络电子商务公司</p>
           </div>
         </div>
@@ -175,7 +175,7 @@ function App() {
       <div className="col-sm-6 mb-3 mb-sm-3">
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title"><img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"><span className="badge text-bg-secondary">2</span></h5>
+            <h5 className="card-title"><img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /><span className="badge text-bg-secondary">2</span></h5>
             <p className="card-text">俄罗斯的多品类综合B2C电商平台</p>
           </div>
         </div>
@@ -183,7 +183,7 @@ function App() {
       <div className="col-sm-6 mb-3 mb-sm-3">
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title"><img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"> <span className="badge text-bg-secondary">1</span></h5>
+            <h5 className="card-title"><img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /> <span className="badge text-bg-secondary">1</span></h5>
             <p className="card-text">俄罗斯本土的鞋服及饰品在线销售平台</p>
           </div>
         </div>
@@ -191,7 +191,7 @@ function App() {
       <div className="col-sm-6 mb-3 mb-sm-3">
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title"><img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"> <span className="badge text-bg-secondary">1</span></h5>
+            <h5 className="card-title"><img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /> <span className="badge text-bg-secondary">1</span></h5>
             <p className="card-text">非洲电子商务巨头</p>
           </div>
         </div>
@@ -199,7 +199,7 @@ function App() {
       <div className="col-sm-6 mb-3 mb-sm-3">
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title"><img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"> <span className="badge text-bg-secondary">1</span></h5>
+            <h5 className="card-title"><img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /> <span className="badge text-bg-secondary">1</span></h5>
             <p className="card-text">一站式SaaS模式的电商服务平台</p>
           </div>
         </div>
@@ -217,7 +217,7 @@ function App() {
   <div className="container col-xxl-10 px-4" id="company">
     <div className="row flex-lg-row-reverse align-items-center g-5">
       <div className="col-10 col-sm-8 col-lg-6">
-        <img src={amz} className="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+        <img src={amz} className="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy" />
       </div>
       <div className="col-lg-6">
         <h1 className="display-8 fw-bold lh-1 mb-3">链接跳动科技有限公司</h1>
@@ -258,7 +258,7 @@ function App() {
             <p>地址：北海市四川路文邦大厦22层</p>
             <p>电话：0779-000000</p>
             <p>Email: <a href="mailto: ceo@vlianjie.com">ceo@vlianjie.com</a></p>
-            <img src="media/images/wechat.jpg" className="bd-placeholder-img bd-placeholder-img-xs featurette-image img-fluid mx-auto" width="150px">
+            <img src="media/images/wechat.jpg" className="bd-placeholder-img bd-placeholder-img-xs featurette-image img-fluid mx-auto" width="150px" />
     </div>
   </footer>
 </div>
