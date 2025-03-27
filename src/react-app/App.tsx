@@ -7,7 +7,7 @@ import "./App.css";
 import "./bootstrap.min.css";
 import "./carousel.css";
 import "./bootstrap.bundle.min.js";
-import images1 from "./media/images/1.jpg";
+import images1 from "./images/1.jpg";
 
 function App() {
   const [count, setCount] = useState(0);
