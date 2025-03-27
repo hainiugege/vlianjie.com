@@ -4,8 +4,15 @@ import "./App.css";
 import "./bootstrap.min.css";
 import "./carousel.css";
 import "./bootstrap.bundle.min.js";
-import images1 from "./images/1.jpg";
+import images1 from "./images/1.jpeg";
+import images4 from "./images/4.jpeg";
+import wechat from "./images/wechat.jpg";
+import ozon from "./images/ozon.png";
+import wb from "./images/wb.png";
 import amz from "./images/amz.png";
+import jumia from "./images/jumia.png";
+import spf from "./images/spf.png";
+
 
 function App() {
 
@@ -55,7 +62,7 @@ function App() {
       <div className="col-sm-6 mb-3 mb-sm-3">
         <div className="card">
           <div className="card-body">
-            <h1 className="card-title"> <img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /> <span className="badge text-bg-secondary">4</span></h1>
+            <h1 className="card-title"> <img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /> <span className="badge text-bg-secondary">3</span></h1>
             <p className="card-text">美国最大的一家网络电子商务公司</p>
           </div>
         </div>
@@ -63,7 +70,7 @@ function App() {
       <div className="col-sm-6 mb-3 mb-sm-3">
         <div className="card">
           <div className="card-body">
-            <h1 className="card-title"><img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /><span className="badge text-bg-secondary">2</span></h1>
+            <h1 className="card-title"><img src={ozon} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /><span className="badge text-bg-secondary">0</span></h1>
             <p className="card-text">俄罗斯的多品类综合B2C电商平台</p>
           </div>
         </div>
@@ -71,7 +78,7 @@ function App() {
       <div className="col-sm-6 mb-3 mb-sm-3">
         <div className="card">
           <div className="card-body">
-            <h1 className="card-title"><img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /> <span className="badge text-bg-secondary">1</span></h1>
+            <h1 className="card-title"><img src={wb} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /> <span className="badge text-bg-secondary">2</span></h1>
             <p className="card-text">俄罗斯本土的鞋服及饰品在线销售平台</p>
           </div>
         </div>
@@ -79,7 +86,7 @@ function App() {
       <div className="col-sm-6 mb-3 mb-sm-3">
         <div className="card">
           <div className="card-body">
-            <h1 className="card-title"><img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /> <span className="badge text-bg-secondary">1</span></h1>
+            <h1 className="card-title"><img src={jumia} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /> <span className="badge text-bg-secondary">0</span></h1>
             <p className="card-text">非洲电子商务巨头</p>
           </div>
         </div>
@@ -87,7 +94,7 @@ function App() {
       <div className="col-sm-6 mb-3 mb-sm-3">
         <div className="card">
           <div className="card-body">
-            <h1 className="card-title"><img src={amz} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /> <span className="badge text-bg-secondary">1</span></h1>
+            <h1 className="card-title"><img src={spf} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" /> <span className="badge text-bg-secondary">0</span></h1>
             <p className="card-text">一站式SaaS模式的电商服务平台</p>
           </div>
         </div>
@@ -104,7 +111,7 @@ function App() {
   <div className="container col-xxl-10 px-4" id="company">
     <div className="row flex-lg-row-reverse align-items-center g-5">
       <div className="col-10 col-sm-8 col-lg-6">
-        <img src={images1} className="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy" />
+        <img src={images4} className="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy" />
       </div>
       <div className="col-lg-6">
         <h1 className="display-8 fw-bold lh-1 mb-3">链接跳动科技有限公司</h1>
@@ -147,7 +154,7 @@ function App() {
             <p>地址：北海市四川路文邦大厦22层</p>
             <p>电话：0779-000000</p>
             <p>Email: <a href="mailto: ceo@vlianjie.com">ceo@vlianjie.com</a></p>
-            <img src={images1} className="bd-placeholder-img bd-placeholder-img-xs featurette-image img-fluid mx-auto" width="150px" />
+            <img src={wechat} className="bd-placeholder-img bd-placeholder-img-xs featurette-image img-fluid mx-auto" width="150px" />
     </div>
   </div>
 </div>
