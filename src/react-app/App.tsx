@@ -8,6 +8,7 @@ import "./bootstrap.min.css";
 import "./carousel.css";
 import "./bootstrap.bundle.min.js";
 import images1 from "./images/1.jpg";
+import amz from "./images/amz.png";
 
 function App() {
   const [count, setCount] = useState(0);
