@@ -143,7 +143,7 @@ function App() {
 
     <div className="row featurette">
       <div className="col-md-7">
-        <h1 className="featurette-heading fw-normal lh-1">北海跨境运营就业前景怎么样</span></h1>
+        <h1 className="featurette-heading fw-normal lh-1">北海跨境运营就业前景怎么样</h1>
         <p className="lead">北海跨境电商发展前景和待遇怎么样?有前途吗?好找工作吗?工资待遇:2024年较2023年下降了29%。</p>
       </div>
       <div className="col-md-5">
