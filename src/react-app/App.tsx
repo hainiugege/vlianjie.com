@@ -92,40 +92,36 @@ function App() {
     <div className="d-flex justify-content-center">
             <h1>核心价值观</h1>
     </div>
-    <!-- Three columns of text below the carousel -->
     <div className="row">
       <div className="col-lg-4">
-
-        <h2 className="fw-normal">进取 Passion</h2>
+        <h1 className="fw-normal">进取 Passion</h1>
         <p>追求卓越、拒绝平庸</p>
       </div>
       <div className="col-lg-4">
-
-        <h2 className="fw-normal">担当 Responsibility</h2>
+        <h1 className="fw-normal">担当 Responsibility</h1>
         <p>有德有能，敬业负责</p>
       </div>
       <div className="col-lg-4">
-        <h2 className="fw-normal">开放 Open</h2>
+        <h1 className="fw-normal">开放 Open</h1>
         <p>拥抱变化，协作共享</p>
       </div>
-        <h2 className="fw-normal">创新 Innovation</h2>
+      <div className="col-lg-4">
+        <h1 className="fw-normal">创新 Innovation</h1>
         <p>善于创造，敢于突破</p>
       </div>
-        <h2 className="fw-normal">敏捷 Agility</h2>
+      <div className="col-lg-4">
+        <h1 className="fw-normal">敏捷 Agility</h1>
         <p>客户价值，快速响应</p>
       </div>
       <div className="col-lg-4">
-        <h2 className="fw-normal">诚信 Integrity</h2>
+        <h1 className="fw-normal">诚信 Integrity</h1>
         <p>信达天下，恪守诺言</p>
       </div>
     </div>
-
-
-    <div className="featurette-divider">    </div>
-
+    
     <div className="row featurette">
       <div className="col-md-7">
-        <h2 className="featurette-heading fw-normal lh-1">在广交会，<span className="text-muted">“解锁”跨境电商新生态</span></h2>
+        <h1 className="featurette-heading fw-normal lh-1">在广交会，<span className="text-muted">“解锁”跨境电商新生态</span></h1>
         <p className="lead">从最初的贸易出海（产品出海）</p>
         <p>到新时代浪潮形式下的</p>
         <p>制造出海和品牌出海</p>
@@ -134,9 +130,6 @@ function App() {
          <img src={images1} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
       </div>
     </div>
-
-    <div className="featurette-divider"> </div>
-
     <div className="row featurette">
       <div className="col-md-7 order-md-2">
         <h2 className="featurette-heading fw-normal lh-1">北海工业产品跨境<span className="text-muted">新机遇</span></h2>
@@ -150,7 +143,7 @@ function App() {
 
     <div className="row featurette">
       <div className="col-md-7">
-        <h2 className="featurette-heading fw-normal lh-1">北海跨境运营就业前景怎么样</span></h2>
+        <h1 className="featurette-heading fw-normal lh-1">北海跨境运营就业前景怎么样</span></h1>
         <p className="lead">北海跨境电商发展前景和待遇怎么样?有前途吗?好找工作吗?工资待遇:2024年较2023年下降了29%。</p>
       </div>
       <div className="col-md-5">
@@ -252,7 +245,7 @@ function App() {
             <p>地址：北海市四川路文邦大厦22层</p>
             <p>电话：0779-000000</p>
             <p>Email: <a href="mailto: ceo@vlianjie.com">ceo@vlianjie.com</a></p>
-            <img src="media/images/wechat.jpg" className="bd-placeholder-img bd-placeholder-img-xs featurette-image img-fluid mx-auto" width="150px" />
+            <img src={images1} className="bd-placeholder-img bd-placeholder-img-xs featurette-image img-fluid mx-auto" width="150px" />
     </div>
   </div>
 </div>
