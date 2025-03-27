@@ -4,7 +4,7 @@ import "./App.css";
 import "./bootstrap.min.css";
 import "./carousel.css";
 import "./bootstrap.bundle.min.js";
-import images1 from "./images/1.jpeg";
+import images7 from "./images/7.webp";
 import images4 from "./images/4.jpeg";
 import wechat from "./images/wechat.jpg";
 import ozon from "./images/ozon.png";
@@ -54,7 +54,7 @@ function App() {
         <p className="lead">北海跨境电商发展前景和待遇怎么样?有前途吗?好找工作吗?工资待遇:2024年较2023年下降了29%。</p>
       </div>
       <div className="col-md-5">
-                <img src={images1} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
+                <img src={images7} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
       </div>
     </div>
   <div className="p-3 mb-3 bg-black text-white d-flex justify-content-center">跨境运营中心</div>
