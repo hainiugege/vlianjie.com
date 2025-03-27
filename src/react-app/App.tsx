@@ -152,7 +152,6 @@ function App() {
     <div className="col mb-3">
       <h1>联系我们</h1>
             <p>地址：北海市四川路文邦大厦22层</p>
-            <p>电话：0779-000000</p>
             <p>Email: <a href="mailto: ceo@vlianjie.com">ceo@vlianjie.com</a></p>
             <img src={wechat} className="bd-placeholder-img bd-placeholder-img-xs featurette-image img-fluid mx-auto" width="150px" />
     </div>
