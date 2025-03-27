@@ -46,7 +46,7 @@ function App() {
   <div className="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
     <div className="col mb-3">
       <a href="/" className="d-flex align-items-center mb-3 link-dark text-decoration-none">
-        <h5>LINK DANCE</h5>
+        <h1>LINK DANCE</h1>
       </a>
       <p>北海链接跳动科技有限公司成立于2023年，是一家有温暖的铺货公司，面向俄欧美东南亚消费者的跨境出口电商企业。</p>
       <p className="text-muted"> 2024 LINK DANCE All rights reserved.</p>
@@ -65,7 +65,7 @@ function App() {
     </div>
 
     <div className="col mb-3">
-      <h5>联系我们</h5>
+      <h1>联系我们</h1>
             <p>地址：北海市四川路文邦大厦22层</p>
             <p>电话：0779-000000</p>
             <p>Email: <a href="mailto: ceo@vlianjie.com">ceo@vlianjie.com</a></p>
