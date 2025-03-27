@@ -226,7 +226,7 @@ function App() {
   </div>
 
 <div className="container" id="contact">
-  <footer className="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
+  <div className="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
     <div className="col mb-3">
       <a href="/" className="d-flex align-items-center mb-3 link-dark text-decoration-none">
         <h5>LINK DANCE</h5>
@@ -254,7 +254,7 @@ function App() {
             <p>Email: <a href="mailto: ceo@vlianjie.com">ceo@vlianjie.com</a></p>
             <img src="media/images/wechat.jpg" className="bd-placeholder-img bd-placeholder-img-xs featurette-image img-fluid mx-auto" width="150px" />
     </div>
-  </footer>
+  </div>
 </div>
       <div>
         <a href="https://vite.dev" target="_blank">
