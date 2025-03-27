@@ -69,7 +69,7 @@ function App() {
         </div>
       </div>
       <div className="carousel-item">
-        <img src={images1} alt="合作共进">
+        <img src={images1} alt="合作共进" />
         <div className="container">
           <div className="carousel-caption text-end">
             <h1>合 作</h1>
@@ -121,9 +121,7 @@ function App() {
     </div>
 
 
-    <!-- START THE FEATURETTES -->
-
-    <hr className="featurette-divider">
+    <div className="featurette-divider">    </div>
 
     <div className="row featurette">
       <div className="col-md-7">
@@ -137,7 +135,7 @@ function App() {
       </div>
     </div>
 
-    <hr className="featurette-divider">
+    <div className="featurette-divider"> </div>
 
     <div className="row featurette">
       <div className="col-md-7 order-md-2">
@@ -149,7 +147,6 @@ function App() {
       </div>
     </div>
 
-    <hr className="featurette-divider">
 
     <div className="row featurette">
       <div className="col-md-7">
@@ -160,8 +157,6 @@ function App() {
                 <img src={images1} className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
       </div>
     </div>
-    <hr className="featurette-divider">
-    <!-- /END THE FEATURETTES -->
   <div className="p-3 mb-3 bg-black text-white d-flex justify-content-center">跨境运营中心</div>
     <div className="row">
       <div className="col-sm-6 mb-3 mb-sm-3">
@@ -213,7 +208,6 @@ function App() {
         </div>
       </div>
     </div>
-   <hr className="featurette-divider">
   <div className="container col-xxl-10 px-4" id="company">
     <div className="row flex-lg-row-reverse align-items-center g-5">
       <div className="col-10 col-sm-8 col-lg-6">
