@@ -1,7 +1,9 @@
 // src/App.tsx
 
 import { useState } from "react";
-import "./App.css";
+import "./bootstrap.min.css";
+import "./carousel.css";
+import "./bootstrap.bundle.min.js";
 
 function App() {
   return (
